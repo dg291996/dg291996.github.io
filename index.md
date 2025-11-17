@@ -5,7 +5,7 @@ subtitle: "Data Engineer"
 ---
 
 ## Contact
-- **Email:** dhruv.gupta@colorado.edu  |  **GitHub:** https://github.com/dg291996 | **LinkedIn:** https://www.linkedin.com/in/gupt-a-dhruv
+**Email:** dhruv.gupta@colorado.edu      |  **GitHub:** https://github.com/dg291996     | **LinkedIn:** https://www.linkedin.com/in/gupt-a-dhruv
 
 ## ABOUT ME
 I am a Data Engineer with 5 years of experience building scalable data systems, production ETL pipelines, and AI solutions across AWS, Google Cloud, and enterprise environments. 
