@@ -1,0 +1,7 @@
+title: "Dhruv Gupta
+email: dhruv.gupta@colorado.edu
+description: "I build scalable data pipelines, analytics systems & levarage AI for solving problems and generating revenue"
+baseurl: "" # leave empty for user.github.io
+url: "https://dg291996.github.io" # change to your GitHub Pages URL
+theme: minima
+plugins: []
