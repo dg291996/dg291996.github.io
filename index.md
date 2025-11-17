@@ -40,20 +40,19 @@ Stakeholder Collaboration, Critical Thinking, Teamwork, Communication, Agile, Pr
 
 ## FEATURED PROJECTS
 - [Sentiment Analysis for Apple Vision Pro](https://dhruvgupta8.wixsite.com/sentimentanalysisavp)
-• Analyzed the overall sentiment towards the product using customer feedback data from Reddit.  
-• Evaluated various machine learning algorithms and identified SVM as the most effective for developing a sentiment analysis model, achieving a 23% increase in accuracy compared to other methods.
+-- Analyzed the overall sentiment towards the product using customer feedback data from Reddit.  
+-- Evaluated various machine learning algorithms and identified SVM as the most effective for developing a sentiment analysis model, achieving a 23% increase in accuracy compared to other methods.
   
 - [Furnace-Sensor-Classifier](https://github.com/dg291996/Furnace-Sensor-Classifier)
-• Implemented random forest classification model that achieved a high accuracy of 96.7%, enabling precise prediction of bad cycles. This accuracy contributes to a significant reduction in maintenance costs, resulting in savings of 16,260 USD per cycle and preventing
-   additional losses associated with extra labor costs and increased black dross disposal expenses.
+-- Implemented random forest classification model that achieved a high accuracy of 96.7%, enabling precise prediction of bad cycles. This accuracy contributes to a significant reduction in maintenance costs, resulting in savings of 16,260 USD per cycle and preventing additional losses associated with extra labor costs and increased black dross disposal expenses.
 
 - [English Premier League Data Analysis)](https://github.com/dg291996/EPL-Data-Analysis)
-• Conducted thorough analysis on data spanning the previous five seasons of the English Premier League (EPL), emphasizing the dominant performance of Manchester City and the resurgence of Arsenal football club.
-• Identified the team exhibiting the highest average goals scored per year, while spotlighting clubs consistently exceeding expectations with superior win percentages.
+-- Conducted thorough analysis on data spanning the previous five seasons of the English Premier League (EPL), emphasizing the dominant performance of Manchester City and the resurgence of Arsenal football club.
+-- Identified the team exhibiting the highest average goals scored per year, while spotlighting clubs consistently exceeding expectations with superior win percentages.
    
 - [Food Analysis ETL Pipeline](https://github.com/dg291996/Data-Engineering-Projects/blob/main/Food%20Order%20Analysis%20Dashboard.md)
-• Developed and automated ETL pipelines for large-scale food sales data using Databricks, PySpark, and Spark SQL, ensuring efficient data ingestion and transformation.
-• Built an interactive analytics dashboard to track customer purchase behavior, platform-wise sales trends, category-wise revenue, and monthly sales performance, leveraging Databricks dashboards for real-time insights
+-- Developed and automated ETL pipelines for large-scale food sales data using Databricks, PySpark, and Spark SQL, ensuring efficient data ingestion and transformation.
+-- Built an interactive analytics dashboard to track customer purchase behavior, platform-wise sales trends, category-wise revenue, and monthly sales performance, leveraging Databricks dashboards for real-time insights
 
 ---
 
