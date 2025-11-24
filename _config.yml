@@ -17,6 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # Enable the theme skin (choose one)
 minimal_mistakes_skin: "default"  # options: default | dark | dirt | mint | neon | air | contrast
