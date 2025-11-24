@@ -1,7 +1,22 @@
 title: "Dhruv Gupta"
 email: dhruv.gupta@colorado.edu
-description: "I build scalable data pipelines, analytics systems & levarage AI for solving problems and generating revenue"
-baseurl: "" # leave empty for user.github.io
-url: "https://dg291996.github.io" # change to your GitHub Pages URL
-theme: minima
-plugins: []
+description: "Data Engineer specializing in scalable data systems, analytics, and machine learning."
+
+url: "https://dg291996.github.io"
+baseurl: "" 
+
+# --- THEME ---
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Recommended settings for Minimal Mistakes
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Enable the theme skin (choose one)
+minimal_mistakes_skin: "default"  # options: default | dark | dirt | mint | neon | air | contrast
