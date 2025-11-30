@@ -2,6 +2,7 @@
 layout: single
 title: "Dhruv Gupta"
 author_profile: true
+classes: wide
 permalink: /
 ---
 
