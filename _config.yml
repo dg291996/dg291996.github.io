@@ -9,7 +9,6 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 theme: minimal-mistakes-jekyll
 
-
 # Markdown settings
 markdown: kramdown
 kramdown:
