@@ -21,4 +21,4 @@ plugins:
   - jekyll-include-cache
 
 # Enable the theme skin (choose one)
-minimal_mistakes_skin: "default"  # options: default | dark | dirt | mint | neon | air | contrast
+minimal_mistakes_skin: "mint"  # options: default | dark | dirt | mint | neon | air | contrast
