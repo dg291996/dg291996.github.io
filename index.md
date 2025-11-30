@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ## About Me
-I am a Data Engineer with 5 years of experience building scalable data systems, production ETL pipelines, and AI solutions across AWS, Google Cloud, Databricks, and enterprise environments.
+I am a Data Engineer with 5 years of experience building scalable data systems, production ETL pipelines, and AI solutions across AWS, Google Cloud and enterprise environments.
 
 I specialize in transforming raw, fragmented datasets into reliable analytics solutions through automation, cloud engineering, and statistical modeling.  
 Recently graduated with a Master’s in Data Science (GPA 3.9) from the University of Colorado Boulder while working as a Data Engineer at VP Health Systems.
