@@ -1,24 +1,35 @@
 title: "Dhruv Gupta"
-avatar: "/assets/images/profile.jpg"
-email: dhruv.gupta@colorado.edu
+email: "dhruv.gupta@colorado.edu"
 description: "Data Engineer specializing in scalable data systems, analytics, and machine learning."
 
 url: "https://dg291996.github.io"
-baseurl: "" 
+baseurl: ""
 
-# --- THEME ---
+# Theme
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Recommended settings for Minimal Mistakes
+# Markdown settings
 markdown: kramdown
 kramdown:
   input: GFM
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
 
-# Enable the theme skin (choose one)
-minimal_mistakes_skin: "mint"  # options: default | dark | dirt | mint | neon | air | contrast
+# Theme skin
+minimal_mistakes_skin: "mint"
+
+# Author profile settings (REQUIRED for image + sidebar)
+author:
+  name: "Dhruv Gupta"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Engineer | Machine Learning | Cloud"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/dg291996"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/gupt-a-dhruv"
