@@ -3,8 +3,16 @@ layout: single
 title: "Dhruv Gupta"
 author_profile: true
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  actions:
+    - label: "Projects"
+      url: "/projects"
 permalink: /
 ---
+
+{% include hero.html %}
 
 ## About Me
 I am a Data Engineer with 5 years of experience building scalable data systems, production ETL pipelines, and AI solutions across AWS, Google Cloud and enterprise environments.
